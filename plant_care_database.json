@@ -1,0 +1,334 @@
+{
+  "rice": {
+    "watering": {
+      "frequency": "Every 2 to 3 days",
+      "amount": "Until the crop is submerged in water",
+      "tips": "Rice crops must be constantly flooded, submerged in water."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Lat spring early summer"
+    }
+  },
+  "maize": {
+    "watering": {
+      "frequency": "Every 3 to 4 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Keep watering light and preferably in the early morning to minimise evaporation and leaf-burn risk."
+    },
+    "sunlight": {
+      "frequency": "8 to 10 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring"
+    }
+  },
+  "chickpea": {
+    "watering": {
+      "frequency": "Every 9 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Keep consistent soil moisture, especially during flowering and pod development."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring"
+    }
+  },
+  "kidneybeans": {
+    "watering": {
+      "frequency": "Every 7 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Keep the soil moist but ensure good drainage to prevent root rot."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring"
+    }
+  },
+  "pigeonpeas": {
+    "watering": {
+      "frequency": "Every 7 to 10 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Avoid over-watering."
+    },
+    "sunlight": {
+      "frequency": "6 to 10 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring to summer"
+    }
+  },
+  "mothbeans": {
+    "watering": {
+      "frequency": "Every 7 to 10 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Moth beans tolerate drought but not water-logging, avoid over-watering to prevent rotting of the crop's shallow roots."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth, minimum 5 hours of strong sun per day is recommended."
+    },
+    "planting_time": {
+      "when": "Summer"
+    }
+  },
+  "mungbeans": {
+    "watering": {
+      "frequency": "Every 7 to 10 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Light watering only, avoid over-watering to prevent rotting of the crop's shallow roots."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Summer"
+    }
+  },
+  "blackgram": {
+    "watering": {
+      "frequency": "Every 7 to 10 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Fast in fast out watering as blackgram roots and crowns rot quickly under standing water."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Late spring to summer"
+    }
+  },
+  "lentil": {
+    "watering": {
+      "frequency": "Every 7 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Water moderately, especially during flowering."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring"
+    }
+  },
+  "pomegranate": {
+    "watering": {
+      "frequency": "Every 7 to 10days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Water at soil level, avoid overhead watering."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth, greenhouse recommended"
+    },
+    "planting_time": {
+      "when": "Late spring to summer"
+    }
+  },
+  "banana": {
+    "watering": {
+      "frequency": "Every 2 to 3 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Keep soil constantly moist."
+    },
+    "sunlight": {
+      "frequency": "10 to 12 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth, greenhouse recommended."
+    },
+    "planting_time": {
+      "when": "Summer"
+    }
+  },
+  "mango": {
+    "watering": {
+      "frequency": "Every 7 to 10 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Water deeply, especially during growing season. Reduce watering during flowering."
+    },
+    "sunlight": {
+      "frequency": "80 to 10 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Spring"
+    }
+  },
+  "grapes": {
+    "watering": {
+      "frequency": "Every 7 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Water deeply and at soil level to prevent the development of plant diseases."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring to fall"
+    }
+  },
+  "watermelon": {
+    "watering": {
+      "frequency": "Every 2 to 4 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Frequent but light watering."
+    },
+    "sunlight": {
+      "frequency": "8 to 10 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Late spring to early summer"
+    }
+  },
+  "muskmelon": {
+    "watering": {
+      "frequency": "Every 5-7 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "After flowering, privilege drip watering, not overhead."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring to fall"
+    }
+  },
+  "apple": {
+    "watering": {
+      "frequency": "Every 5 to 7 days and 1 deep soak per week",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Water at soil level to avoid plant diseases."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring to fall"
+    }
+  },
+  "orange": {
+    "watering": {
+      "frequency": "1 to 2 deep soaks per week",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Water at soil level, avoid spraying leaves."
+    },
+    "sunlight": {
+      "frequency": "8 to 10 hours per day",
+      "amount": "Full sun, direct and unfiltered sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Spring to summer"
+    }
+  },
+  "papaya": {
+    "watering": {
+      "frequency": "Every 3 to 4 days and 1 deep soak per week",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Keep the soil moist but never waterlogged, papaya has a shallow root system."
+    },
+    "sunlight": {
+      "frequency": "8 to 10 hours per day",
+      "amount": "Full sun, direct and unfiltered sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Spring to early summer"
+    }
+  },
+  "coconut": {
+    "watering": {
+      "frequency": "Every 3-4 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Maintain constant and even moisture."
+    },
+    "sunlight": {
+      "frequency": "8 to 10 hours per day",
+      "amount": "Full sun, direct sunlight",
+      "tips": "Requires full sun for optimal growth, preferably south- or west sunlight source."
+    },
+    "planting_time": {
+      "when": "Early spring to fall"
+    }
+  },
+  "cotton": {
+    "watering": {
+      "frequency": "Every 7 days",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Favor infrequent, deep watering. Water preferably in the early morning to minimise evaporation. "
+    },
+    "sunlight": {
+      "frequency": "8 to 10 hours per day",
+      "amount": "Full sun, direct and unfiltered sunlight",
+      "tips": "Requires full sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Late spring"
+    }
+  },
+  "jute": {
+    "watering": {
+      "frequency": "Every day",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Light watering, keep the soil moist for proper seedling development."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Full sun, direct and unfiltered sunlight",
+      "tips": "Requires at least 4 hours of strong morning sun for optimal growth."
+    },
+    "planting_time": {
+      "when": "Late spring to summer"
+    }
+  },
+  "coffee": {
+    "watering": {
+      "frequency": "1 to 3 deep soaks per week",
+      "amount": "Around 0.8 cups (i.e. 200 ml)",
+      "tips": "Maintain constant and even moisture, coffee roots are shallow and crave constant, gentle moisture."
+    },
+    "sunlight": {
+      "frequency": "6 to 8 hours per day",
+      "amount": "Bright, indirect sunlight",
+      "tips": "Requires gentle morning sun or shade for optimal growth."
+    },
+    "planting_time": {
+      "when": "Early spring to fall"
+    }
+  }
+}
+
+
