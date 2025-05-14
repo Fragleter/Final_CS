@@ -1,7 +1,7 @@
 Main .py File:
-##This file contains the main code for our app.
-##Idea: As sustainability and health are becoming of interest to more and more people, we wanted to create an app that would help users get into gardening, growing their own fruits and vegetables, in a simple and effective way.
-##Resources and help:
+This file contains the main code for our app.
+Idea: As sustainability and health are becoming of interest to more and more people, we wanted to create an app that would help users get into gardening, growing their own fruits and vegetables, in a simple and effective way.
+Resources and help:
 - CS Coaching tutors: help with finding datasets, checking whether they are usable for our project, and so on.
 - Friends and relatives: help with code structure, debugging and fixing mistakes or problems.
 - AI:
