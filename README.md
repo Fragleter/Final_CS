@@ -13,11 +13,11 @@ Resources and help:
 - Open Meteo API: getting the weather data (current temperature and humidity) based on the user's location.
 
 ML_Test.py:
-- Friends and family: help understanding basic ml concepts, help creating a structure for our code, advice on what 
+- Friends and family: help understanding basic ML concepts, help creating a structure for our code, advice on what 
 algorithms to test/use, help finding suitable functions or code snippets to use for what we wanted to implement, 
 corrections, help with fixing errors and problems, proof reading and so on.
 - CS Coaching tutors: advice on dataset quality and usability, overall feedback.
-- AI (Github Copilot, ChatGPT and Claude): help understanding basic ml concepts, help finding suitable functions to 
+- AI (Github Copilot, ChatGPT and Claude): help understanding basic ML concepts, help finding suitable functions to 
 use for what we wanted to implement, help with errors and problems, corrections, help finding structures of blocks 
 for what we wanted to implement, providing improvements and so on.
-- Scikit documentation for in-depth understanding of the ml algorithms and implementation into python
+- Scikit documentation for in-depth understanding of the ML algorithms and implementation into python
