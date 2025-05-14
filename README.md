@@ -20,4 +20,4 @@ corrections, help with fixing errors and problems, proof reading and so on.
 - AI (Github Copilot, ChatGPT and Claude): help understanding basic ml concepts, help finding suitable functions to 
 use for what we wanted to implement, help with errors and problems, corrections, help finding structures of blocks 
 for what we wanted to implement, providing improvements and so on.
-- scikit documentation for in-depth understanding of the ml algorithms and implenentation into python
+- Scikit documentation for in-depth understanding of the ml algorithms and implementation into python
